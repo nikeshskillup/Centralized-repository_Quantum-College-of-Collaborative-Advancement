@@ -1,0 +1,10 @@
+Student Contribution Guidelines
+
+Open Collaboration:
+As a student contributor, I commit to active and open collaboration, valuing diverse contributions within our college community.
+
+Clear Documentation:
+I'll provide clear code documentation in my projects.
+
+Compliance:
+I will always ensure compliance with our college rules and regulations.
